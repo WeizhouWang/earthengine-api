@@ -1,9 +1,9 @@
 {
   "name": "earthengine-api",
   "version": "0.1.241",
-  "homepage": "https://github.com/chiefy/bower-breeze",
+  "homepage": "https://github.com/google/earthengine-api",
   "description": "JavaScript client for Google Earth Engine API. (weizhou wang forked).",
-  "main": ["./javascrpt/build/ee_api_js.js"],
+  "main": ["./javascript/build/ee_api_js.js"],
   "license": "MIT",
   "ignore": [
     "**/.*",
