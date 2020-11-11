@@ -1,4 +1,4 @@
-Google Earth Engine API
+Google Earth Engine API --Weizhou Wang Forked
 =======================
 
 Python and JavaScript client libraries for calling the Google Earth Engine API.
